@@ -30,3 +30,5 @@ B - Dll Mode (you only have dlls)
 Contributing
 ---
 If you'd like to add a new feature or to report a bug, please create an issue. Feel free to suggest a pull request too :)
+
+---
